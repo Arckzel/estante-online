@@ -1,7 +1,21 @@
-<h1 align="center"> Projeto estante-online</h1>
+<h1 align="center"> Projeto Estante Online</h1>
 
 Esse projeto foi desenvolvido por mim no ano de 2020, para conclusão da disciplina de **Programação Orientada a Objetos** que paguei no 
 curso de **Análise e Desenvolvimento de Sistemas**.
+
+<h2 align="center"> Ferramentas </h2>
+
+Para o desenvolvimento desse projeto eu utilizei as seguintes ferramentas:
+
+| Ferramenta | Utilidade |
+| --- | --- |
+| Java | Linguagem de programação |
+| Swing | Para a ingterface gráfica. |
+| Xstream | Para a persistência dos dados. |
+| Java Mail | Para envio de e-mails. |
+| Itext | Para geração de Pdfs. |
+
+<h2 align="center"> Funcionalidades </h2>
 
 Esse projeto possui as seguintes funcionalidades:
 
@@ -12,7 +26,7 @@ Esse projeto possui as seguintes funcionalidades:
  5. Listagem de livros cadastrados.
  6. Listagem dos livros cadastrados ordenada por ordem alfabetica ou por avaliação.
  7. Listagem dos livros cadastrados filtrada por tipo e palavra-chave (busca por nome).
- 8. Exibição das informações detalhadas no perfil dos livros, contendo nome, autores, preço, tipo e todas as suas informações.
+ 8. Exibição das informações detalhadas no perfil dos livros, contendo todas as suas informações.
  9. Sistema de contar visualizações no perfil de um livro.
  10. Sistema de comentários nos livros **comprados**.
  11. Opção para um usuário excluir seus proprios coementários se desejar.
@@ -27,7 +41,7 @@ Esse projeto possui as seguintes funcionalidades:
  20. Relatório de livros com mais interessados.
  
 
-<h1 align="center"> Instalação </h1>
+<h2 align="center"> Instalação </h2>
 
 Para instalar e rodar esse projeto basta ter apenas o java instalado no seu computador e fazer o download do arquivo **"Estante Online.jar"**, 
 executando ele logo em seguida.
